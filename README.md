@@ -1,2 +1,1 @@
-# c-108
-dtjwrtjar66kwyhq6ujujatrkwytyt
+# PRO-C108-Teacher-Bolierplate
